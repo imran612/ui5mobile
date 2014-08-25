@@ -1,0 +1,439 @@
+2014-08-18 14:59:41.650 LineClearance[5436:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 14:59:41.720 LineClearance[5436:70b] Unlimited access to network resources
+2014-08-18 14:59:42.835 LineClearance[5436:70b] Resetting plugins due to page load.
+2014-08-18 14:59:44.929 LineClearance[5436:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-18 15:16:45.152 LineClearance[6920:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 15:16:45.171 LineClearance[6920:70b] Unlimited access to network resources
+2014-08-18 15:16:45.473 LineClearance[6920:70b] Resetting plugins due to page load.
+2014-08-18 15:16:46.188 LineClearance[6920:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-18 15:19:16.897 LineClearance[8224:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 15:19:16.913 LineClearance[8224:70b] Unlimited access to network resources
+2014-08-18 15:19:17.208 LineClearance[8224:70b] Resetting plugins due to page load.
+2014-08-18 15:19:17.946 LineClearance[8224:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-18 15:36:24.071 LineClearance[9655:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 15:36:24.158 LineClearance[9655:70b] Unlimited access to network resources
+2014-08-18 15:36:24.885 LineClearance[9655:70b] Resetting plugins due to page load.
+2014-08-18 15:36:54.722 LineClearance[9655:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-18 15:36:55.707 LineClearance[9655:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-18 15:40:34.404 LineClearance[9655:70b] Simulator slow-motion animations are now on
+2014-08-18 15:53:06.122 LineClearance[11078:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 15:53:06.171 LineClearance[11078:70b] Unlimited access to network resources
+2014-08-18 15:53:06.916 LineClearance[11078:70b] Resetting plugins due to page load.
+2014-08-18 16:25:12.974 LineClearance[11078:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-18 16:25:16.658 LineClearance[11078:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-18 16:26:38.746 LineClearance[12575:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 16:26:38.790 LineClearance[12575:70b] Unlimited access to network resources
+2014-08-18 16:26:39.202 LineClearance[12575:70b] Resetting plugins due to page load.
+2014-08-18 16:30:12.375 LineClearance[13905:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 16:30:12.413 LineClearance[13905:70b] Unlimited access to network resources
+2014-08-18 16:30:12.913 LineClearance[13905:70b] Resetting plugins due to page load.
+2014-08-18 16:30:33.028 LineClearance[13905:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-18 16:30:34.155 LineClearance[13905:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-18 16:39:23.195 LineClearance[15317:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 16:39:23.214 LineClearance[15317:70b] Unlimited access to network resources
+2014-08-18 16:39:23.539 LineClearance[15317:70b] Resetting plugins due to page load.
+2014-08-18 16:39:44.219 LineClearance[15317:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-18 16:39:45.346 LineClearance[15317:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-18 16:46:11.432 LineClearance[16633:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 16:46:11.455 LineClearance[16633:70b] Unlimited access to network resources
+2014-08-18 16:46:11.917 LineClearance[16633:70b] Resetting plugins due to page load.
+2014-08-18 16:46:52.867 LineClearance[16633:4103] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-18 16:46:53.921 LineClearance[16633:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-18 16:47:54.569 LineClearance[18020:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 16:47:54.586 LineClearance[18020:70b] Unlimited access to network resources
+2014-08-18 16:47:54.956 LineClearance[18020:70b] Resetting plugins due to page load.
+2014-08-18 16:48:05.131 LineClearance[18020:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-18 16:48:05.918 LineClearance[18020:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-18 16:57:15.051 LineClearance[19399:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 16:57:15.107 LineClearance[19399:70b] Unlimited access to network resources
+2014-08-18 16:57:16.244 LineClearance[19399:70b] Resetting plugins due to page load.
+2014-08-18 16:57:25.964 LineClearance[19399:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 09:42:46.991 LineClearance[21998:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 09:42:47.088 LineClearance[21998:70b] Unlimited access to network resources
+2014-08-19 09:42:47.947 LineClearance[21998:70b] Resetting plugins due to page load.
+2014-08-19 09:43:15.450 LineClearance[21998:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 09:43:16.366 LineClearance[21998:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 09:45:50.700 LineClearance[23332:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 09:45:50.718 LineClearance[23332:70b] Unlimited access to network resources
+2014-08-19 09:45:51.075 LineClearance[23332:70b] Resetting plugins due to page load.
+2014-08-19 09:45:56.763 LineClearance[23332:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 09:48:58.783 LineClearance[24664:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 09:48:58.802 LineClearance[24664:70b] Unlimited access to network resources
+2014-08-19 09:48:59.140 LineClearance[24664:70b] Resetting plugins due to page load.
+2014-08-19 09:49:11.687 LineClearance[24664:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 09:49:14.658 LineClearance[24664:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 09:49:41.916 LineClearance[25966:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 09:49:41.932 LineClearance[25966:70b] Unlimited access to network resources
+2014-08-19 09:49:42.189 LineClearance[25966:70b] Resetting plugins due to page load.
+2014-08-19 09:50:11.645 LineClearance[25966:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 09:51:13.909 LineClearance[25966:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 09:51:14.695 LineClearance[25966:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:11:50.594 LineClearance[27477:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:11:50.679 LineClearance[27477:70b] Unlimited access to network resources
+2014-08-19 10:11:51.479 LineClearance[27477:70b] Resetting plugins due to page load.
+2014-08-19 10:12:04.381 LineClearance[27477:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:12:15.419 LineClearance[27477:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-08-19 10:15:12.603 LineClearance[28824:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:15:12.626 LineClearance[28824:70b] Unlimited access to network resources
+2014-08-19 10:15:13.080 LineClearance[28824:70b] Resetting plugins due to page load.
+2014-08-19 10:15:23.661 LineClearance[28824:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:15:29.752 LineClearance[28824:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:18:00.671 LineClearance[30161:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:18:00.690 LineClearance[30161:70b] Unlimited access to network resources
+2014-08-19 10:18:01.167 LineClearance[30161:70b] Resetting plugins due to page load.
+2014-08-19 10:18:13.046 LineClearance[30161:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:19:20.333 LineClearance[31491:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:19:20.412 LineClearance[31491:70b] Unlimited access to network resources
+2014-08-19 10:19:20.792 LineClearance[31491:70b] Resetting plugins due to page load.
+2014-08-19 10:19:39.217 LineClearance[31491:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:20:33.128 LineClearance[31491:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:21:24.330 LineClearance[32822:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:21:24.361 LineClearance[32822:70b] Unlimited access to network resources
+2014-08-19 10:21:24.956 LineClearance[32822:70b] Resetting plugins due to page load.
+2014-08-19 10:21:38.341 LineClearance[32822:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:21:55.742 LineClearance[32822:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:21:56.202 LineClearance[32822:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:26:04.135 LineClearance[34199:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:26:04.156 LineClearance[34199:70b] Unlimited access to network resources
+2014-08-19 10:26:04.456 LineClearance[34199:70b] Resetting plugins due to page load.
+2014-08-19 10:26:20.345 LineClearance[34199:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:26:31.632 LineClearance[34199:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:26:32.137 LineClearance[34199:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:27:52.327 LineClearance[35526:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:27:52.345 LineClearance[35526:70b] Unlimited access to network resources
+2014-08-19 10:27:52.916 LineClearance[35526:70b] Resetting plugins due to page load.
+2014-08-19 10:28:04.575 LineClearance[35526:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:28:18.270 LineClearance[35526:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:28:18.720 LineClearance[35526:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:28:44.574 LineClearance[36826:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:28:44.594 LineClearance[36826:70b] Unlimited access to network resources
+2014-08-19 10:28:44.938 LineClearance[36826:70b] Resetting plugins due to page load.
+2014-08-19 10:29:01.274 LineClearance[36826:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:29:11.327 LineClearance[36826:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:37:21.646 LineClearance[38139:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:37:21.729 LineClearance[38139:70b] Unlimited access to network resources
+2014-08-19 10:37:22.596 LineClearance[38139:70b] Resetting plugins due to page load.
+2014-08-19 10:37:31.236 LineClearance[38139:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:42:22.520 LineClearance[39517:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:42:22.537 LineClearance[39517:70b] Unlimited access to network resources
+2014-08-19 10:42:22.911 LineClearance[39517:70b] Resetting plugins due to page load.
+2014-08-19 10:42:33.455 LineClearance[39517:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:43:36.839 LineClearance[40819:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:43:36.858 LineClearance[40819:70b] Unlimited access to network resources
+2014-08-19 10:43:37.147 LineClearance[40819:70b] Resetting plugins due to page load.
+2014-08-19 10:43:52.596 LineClearance[40819:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:44:05.310 LineClearance[40819:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:44:05.815 LineClearance[40819:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:49:40.581 LineClearance[42182:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:49:40.651 LineClearance[42182:70b] Unlimited access to network resources
+2014-08-19 10:49:41.629 LineClearance[42182:70b] Resetting plugins due to page load.
+2014-08-19 10:50:01.402 LineClearance[42182:4103] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:50:01.894 LineClearance[42182:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:51:42.229 LineClearance[43485:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:51:42.246 LineClearance[43485:70b] Unlimited access to network resources
+2014-08-19 10:51:42.523 LineClearance[43485:70b] Resetting plugins due to page load.
+2014-08-19 10:51:52.926 LineClearance[43485:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:52:08.235 LineClearance[43485:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:52:08.683 LineClearance[43485:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:53:31.017 LineClearance[44780:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:53:31.042 LineClearance[44780:70b] Unlimited access to network resources
+2014-08-19 10:53:31.370 LineClearance[44780:70b] Resetting plugins due to page load.
+2014-08-19 10:53:55.068 LineClearance[44780:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:54:06.056 LineClearance[44780:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:54:06.720 LineClearance[44780:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:54:55.565 LineClearance[46133:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:54:55.581 LineClearance[46133:70b] Unlimited access to network resources
+2014-08-19 10:54:55.766 LineClearance[46133:70b] Resetting plugins due to page load.
+2014-08-19 10:55:42.064 LineClearance[46133:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:55:55.172 LineClearance[46133:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:55:55.616 LineClearance[46133:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:56:59.945 LineClearance[47431:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:56:59.961 LineClearance[47431:70b] Unlimited access to network resources
+2014-08-19 10:57:00.460 LineClearance[47431:70b] Resetting plugins due to page load.
+2014-08-19 10:57:12.165 LineClearance[47431:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:57:25.320 LineClearance[47431:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 10:57:25.748 LineClearance[47431:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 10:58:20.457 LineClearance[48727:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 10:58:20.477 LineClearance[48727:70b] Unlimited access to network resources
+2014-08-19 10:58:20.846 LineClearance[48727:70b] Resetting plugins due to page load.
+2014-08-19 10:58:28.502 LineClearance[48727:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 11:01:27.667 LineClearance[50031:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 11:01:27.690 LineClearance[50031:70b] Unlimited access to network resources
+2014-08-19 11:01:28.321 LineClearance[50031:70b] Resetting plugins due to page load.
+2014-08-19 11:01:41.323 LineClearance[50031:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 11:07:09.928 LineClearance[51350:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 11:07:09.944 LineClearance[51350:70b] Unlimited access to network resources
+2014-08-19 11:07:10.417 LineClearance[51350:70b] Resetting plugins due to page load.
+2014-08-19 11:07:16.157 LineClearance[51350:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 11:09:39.478 LineClearance[52646:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 11:09:39.504 LineClearance[52646:70b] Unlimited access to network resources
+2014-08-19 11:09:40.008 LineClearance[52646:70b] Resetting plugins due to page load.
+2014-08-19 11:09:54.955 LineClearance[52646:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 11:35:40.579 LineClearance[54132:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 11:35:40.665 LineClearance[54132:70b] Unlimited access to network resources
+2014-08-19 11:35:41.593 LineClearance[54132:70b] Resetting plugins due to page load.
+2014-08-19 11:35:51.448 LineClearance[54132:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 14:01:08.658 LineClearance[56209:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 14:01:08.675 LineClearance[56209:70b] Unlimited access to network resources
+2014-08-19 14:01:08.992 LineClearance[56209:70b] Resetting plugins due to page load.
+2014-08-19 14:01:19.433 LineClearance[56209:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 14:01:20.555 LineClearance[56209:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 14:15:58.875 LineClearance[57717:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 14:15:59.006 LineClearance[57717:70b] Unlimited access to network resources
+2014-08-19 14:15:59.885 LineClearance[57717:70b] Resetting plugins due to page load.
+2014-08-19 14:16:07.039 LineClearance[57717:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 14:20:10.054 LineClearance[59034:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 14:20:10.070 LineClearance[59034:70b] Unlimited access to network resources
+2014-08-19 14:20:10.285 LineClearance[59034:70b] Resetting plugins due to page load.
+2014-08-19 14:20:25.608 LineClearance[59034:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 14:20:26.631 LineClearance[59034:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 14:21:55.158 LineClearance[60344:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 14:21:55.175 LineClearance[60344:70b] Unlimited access to network resources
+2014-08-19 14:21:55.766 LineClearance[60344:70b] Resetting plugins due to page load.
+2014-08-19 14:22:14.363 LineClearance[60344:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 14:22:16.496 LineClearance[60344:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 14:22:19.915 LineClearance[61640:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 14:22:19.950 LineClearance[61640:70b] Unlimited access to network resources
+2014-08-19 14:22:20.168 LineClearance[61640:70b] Resetting plugins due to page load.
+2014-08-19 14:22:32.711 LineClearance[61640:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 14:22:33.681 LineClearance[61640:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 14:23:16.563 LineClearance[62938:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 14:23:16.582 LineClearance[62938:70b] Unlimited access to network resources
+2014-08-19 14:23:16.764 LineClearance[62938:70b] Resetting plugins due to page load.
+2014-08-19 14:23:46.460 LineClearance[62938:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 14:23:47.446 LineClearance[62938:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 14:26:10.381 LineClearance[64247:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 14:26:10.397 LineClearance[64247:70b] Unlimited access to network resources
+2014-08-19 14:26:10.780 LineClearance[64247:70b] Resetting plugins due to page load.
+2014-08-19 14:26:33.255 LineClearance[64247:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 14:27:16.860 LineClearance[64247:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 14:31:45.297 LineClearance[65619:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 14:31:45.325 LineClearance[65619:70b] Unlimited access to network resources
+2014-08-19 14:31:45.844 LineClearance[65619:70b] Resetting plugins due to page load.
+2014-08-19 14:31:56.994 LineClearance[65619:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:03:36.497 LineClearance[68461:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:03:36.557 LineClearance[68461:70b] Unlimited access to network resources
+2014-08-19 15:03:37.548 LineClearance[68461:70b] Resetting plugins due to page load.
+2014-08-19 15:03:43.268 LineClearance[68461:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:04:25.401 LineClearance[69763:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:04:25.417 LineClearance[69763:70b] Unlimited access to network resources
+2014-08-19 15:04:25.879 LineClearance[69763:70b] Resetting plugins due to page load.
+2014-08-19 15:04:40.033 LineClearance[69763:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 15:04:40.867 LineClearance[69763:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:05:28.618 LineClearance[71060:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:05:28.638 LineClearance[71060:70b] Unlimited access to network resources
+2014-08-19 15:05:29.114 LineClearance[71060:70b] Resetting plugins due to page load.
+2014-08-19 15:05:45.424 LineClearance[71060:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 15:05:46.119 LineClearance[71060:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:06:41.630 LineClearance[72361:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:06:41.645 LineClearance[72361:70b] Unlimited access to network resources
+2014-08-19 15:06:41.857 LineClearance[72361:70b] Resetting plugins due to page load.
+2014-08-19 15:06:55.324 LineClearance[72361:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 15:06:58.080 LineClearance[72361:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:07:53.628 LineClearance[73667:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:07:53.650 LineClearance[73667:70b] Unlimited access to network resources
+2014-08-19 15:07:54.252 LineClearance[73667:70b] Resetting plugins due to page load.
+2014-08-19 15:08:19.395 LineClearance[73667:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 15:08:19.802 LineClearance[73667:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:10:37.372 LineClearance[74974:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:10:37.392 LineClearance[74974:70b] Unlimited access to network resources
+2014-08-19 15:10:38.089 LineClearance[74974:70b] Resetting plugins due to page load.
+2014-08-19 15:10:47.205 LineClearance[74974:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:11:52.795 LineClearance[76271:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:11:52.817 LineClearance[76271:70b] Unlimited access to network resources
+2014-08-19 15:11:53.563 LineClearance[76271:70b] Resetting plugins due to page load.
+2014-08-19 15:12:01.000 LineClearance[76271:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:13:04.800 LineClearance[77625:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:13:04.816 LineClearance[77625:70b] Unlimited access to network resources
+2014-08-19 15:13:05.028 LineClearance[77625:70b] Resetting plugins due to page load.
+2014-08-19 15:13:17.243 LineClearance[77625:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:16:21.153 LineClearance[78940:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:16:21.170 LineClearance[78940:70b] Unlimited access to network resources
+2014-08-19 15:16:21.374 LineClearance[78940:70b] Resetting plugins due to page load.
+2014-08-19 15:16:30.635 LineClearance[78940:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:17:28.338 LineClearance[80239:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:17:28.354 LineClearance[80239:70b] Unlimited access to network resources
+2014-08-19 15:17:28.518 LineClearance[80239:70b] Resetting plugins due to page load.
+2014-08-19 15:17:38.539 LineClearance[80239:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:18:04.270 LineClearance[80239:70b] Received memory warning.
+2014-08-19 15:19:09.275 LineClearance[81598:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:19:09.292 LineClearance[81598:70b] Unlimited access to network resources
+2014-08-19 15:19:09.783 LineClearance[81598:70b] Resetting plugins due to page load.
+2014-08-19 15:19:22.850 LineClearance[81598:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:27:05.252 LineClearance[82965:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:27:05.351 LineClearance[82965:70b] Unlimited access to network resources
+2014-08-19 15:27:06.247 LineClearance[82965:70b] Resetting plugins due to page load.
+2014-08-19 15:27:27.626 LineClearance[82965:3d07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 15:27:32.639 LineClearance[82965:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:28:41.841 LineClearance[84303:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:28:41.902 LineClearance[84303:70b] Unlimited access to network resources
+2014-08-19 15:28:42.624 LineClearance[84303:70b] Resetting plugins due to page load.
+2014-08-19 15:28:58.915 LineClearance[84303:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 15:29:03.313 LineClearance[84303:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 15:30:35.856 LineClearance[84303:70b] Received memory warning.
+2014-08-19 15:31:45.355 LineClearance[85736:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 15:31:45.423 LineClearance[85736:70b] Unlimited access to network resources
+2014-08-19 15:31:46.114 LineClearance[85736:70b] Resetting plugins due to page load.
+2014-08-19 16:06:50.793 LineClearance[87467:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 16:06:50.829 LineClearance[87467:70b] Unlimited access to network resources
+2014-08-19 16:06:51.471 LineClearance[87467:70b] Resetting plugins due to page load.
+2014-08-19 16:06:58.816 LineClearance[87467:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 16:11:50.221 LineClearance[90263:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 16:11:50.286 LineClearance[90263:70b] Unlimited access to network resources
+2014-08-19 16:11:50.838 LineClearance[90263:70b] Resetting plugins due to page load.
+2014-08-19 16:11:58.726 LineClearance[90263:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1D946F5F-D667-409A-8658-23E262AB8A4A/LineClearance.app/www/index.html
+2014-08-19 16:47:16.886 LineClearance[93234:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 16:47:16.969 LineClearance[93234:70b] Unlimited access to network resources
+2014-08-19 16:47:18.348 LineClearance[93234:70b] Resetting plugins due to page load.
+2014-08-19 16:48:31.324 LineClearance[94608:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 16:48:31.375 LineClearance[94608:70b] Unlimited access to network resources
+2014-08-19 16:48:32.096 LineClearance[94608:70b] Resetting plugins due to page load.
+2014-08-19 16:48:40.406 LineClearance[94608:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-19 16:55:51.744 LineClearance[95981:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 16:55:51.764 LineClearance[95981:70b] Unlimited access to network resources
+2014-08-19 16:55:52.278 LineClearance[95981:70b] Resetting plugins due to page load.
+2014-08-19 16:57:12.941 LineClearance[95981:4103] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-19 16:57:18.887 LineClearance[95981:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-08-19 16:58:10.254 LineClearance[97321:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-19 16:58:10.407 LineClearance[97321:70b] Unlimited access to network resources
+2014-08-19 16:58:11.684 LineClearance[97321:70b] Resetting plugins due to page load.
+2014-08-19 16:58:22.247 LineClearance[97321:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-19 16:58:30.183 LineClearance[97321:70b] Received memory warning.
+2014-08-20 08:50:42.881 LineClearance[98978:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 08:50:43.083 LineClearance[98978:70b] Unlimited access to network resources
+2014-08-20 08:50:44.534 LineClearance[98978:70b] Resetting plugins due to page load.
+2014-08-20 08:50:57.633 LineClearance[98978:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-20 08:51:13.745 LineClearance[98978:70b] Received memory warning.
+2014-08-20 09:03:58.804 LineClearance[1125:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 09:03:58.914 LineClearance[1125:70b] Unlimited access to network resources
+2014-08-20 09:03:59.861 LineClearance[1125:70b] Resetting plugins due to page load.
+2014-08-20 09:04:09.097 LineClearance[1125:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-20 09:20:14.919 LineClearance[2627:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 09:20:15.021 LineClearance[2627:70b] Unlimited access to network resources
+2014-08-20 09:20:16.272 LineClearance[2627:70b] Resetting plugins due to page load.
+2014-08-20 09:20:36.731 LineClearance[2627:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-20 09:20:41.978 LineClearance[2627:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-20 15:46:00.631 LineClearance[84003:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-20 15:46:00.718 LineClearance[84003:70b] Unlimited access to network resources
+2014-08-20 15:46:01.730 LineClearance[84003:70b] Resetting plugins due to page load.
+2014-08-21 10:07:47.721 LineClearance[46130:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 10:07:47.750 LineClearance[46130:70b] Unlimited access to network resources
+2014-08-21 10:07:48.259 LineClearance[46130:70b] Resetting plugins due to page load.
+2014-08-21 10:07:58.651 LineClearance[46130:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 10:35:59.513 LineClearance[70669:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 10:35:59.566 LineClearance[70669:70b] Unlimited access to network resources
+2014-08-21 10:36:00.093 LineClearance[70669:70b] Resetting plugins due to page load.
+2014-08-21 10:36:16.680 LineClearance[70669:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 10:36:17.936 LineClearance[70669:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 10:38:22.883 LineClearance[71983:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 10:38:22.968 LineClearance[71983:70b] Unlimited access to network resources
+2014-08-21 10:38:23.430 LineClearance[71983:70b] Resetting plugins due to page load.
+2014-08-21 10:38:50.974 LineClearance[71983:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 10:39:04.589 LineClearance[71983:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 10:39:05.698 LineClearance[71983:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 10:41:17.263 LineClearance[71983:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 10:42:13.652 LineClearance[73352:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 10:42:13.669 LineClearance[73352:70b] Unlimited access to network resources
+2014-08-21 10:42:14.012 LineClearance[73352:70b] Resetting plugins due to page load.
+2014-08-21 10:42:38.677 LineClearance[73352:4103] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 10:42:44.018 LineClearance[73352:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 10:51:04.020 LineClearance[74678:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 10:51:04.036 LineClearance[74678:70b] Unlimited access to network resources
+2014-08-21 10:51:04.376 LineClearance[74678:70b] Resetting plugins due to page load.
+2014-08-21 10:51:20.384 LineClearance[74678:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 10:54:46.745 LineClearance[75987:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 10:54:46.771 LineClearance[75987:70b] Unlimited access to network resources
+2014-08-21 10:54:47.183 LineClearance[75987:70b] Resetting plugins due to page load.
+2014-08-21 10:55:03.986 LineClearance[75987:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 10:58:47.750 LineClearance[77365:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 10:58:47.767 LineClearance[77365:70b] Unlimited access to network resources
+2014-08-21 10:58:48.033 LineClearance[77365:70b] Resetting plugins due to page load.
+2014-08-21 10:59:00.158 LineClearance[77365:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 10:59:49.080 LineClearance[78665:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 10:59:49.100 LineClearance[78665:70b] Unlimited access to network resources
+2014-08-21 10:59:49.389 LineClearance[78665:70b] Resetting plugins due to page load.
+2014-08-21 11:00:02.373 LineClearance[78665:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 11:00:12.378 LineClearance[78665:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 11:02:05.537 LineClearance[78665:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 11:02:33.676 LineClearance[78665:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 11:04:33.495 LineClearance[78665:4003] bool _WebTryThreadLock(bool), 0xa294610: Multiple locks on web thread not allowed! Please file a bug. Crashing now...
+1   0x4bffe78 WebRunLoopLock(__CFRunLoopObserver*, unsigned long, void*)
+2   0x9336e __CFRUNLOOP_IS_CALLING_OUT_TO_AN_OBSERVER_CALLBACK_FUNCTION__
+3   0x932bf __CFRunLoopDoObservers
+4   0x713c8 __CFRunLoopRun
+5   0x709d3 CFRunLoopRunSpecific
+6   0x707eb CFRunLoopRunInMode
+7   0x4bffe40 RunWebThread(void*)
+8   0x26025fb _pthread_body
+9   0x2602485 _pthread_struct_init
+10  0x2607cf2 thread_start
+2014-08-21 11:36:27.135 LineClearance[85364:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 11:36:27.155 LineClearance[85364:70b] Unlimited access to network resources
+2014-08-21 11:36:27.797 LineClearance[85364:70b] Resetting plugins due to page load.
+2014-08-21 11:36:44.213 LineClearance[85364:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 11:45:31.324 LineClearance[86775:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 11:45:31.406 LineClearance[86775:70b] Unlimited access to network resources
+2014-08-21 11:45:32.252 LineClearance[86775:70b] Resetting plugins due to page load.
+2014-08-21 11:45:48.879 LineClearance[86775:3e07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 11:46:04.057 LineClearance[86775:3e07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 11:46:05.283 LineClearance[86775:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 12:06:29.265 LineClearance[88215:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 12:06:29.363 LineClearance[88215:70b] Unlimited access to network resources
+2014-08-21 12:06:30.017 LineClearance[88215:70b] Resetting plugins due to page load.
+2014-08-21 12:06:40.421 LineClearance[88215:3d07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 12:06:49.678 LineClearance[88215:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 12:09:20.408 LineClearance[89524:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 12:09:20.423 LineClearance[89524:70b] Unlimited access to network resources
+2014-08-21 12:09:20.719 LineClearance[89524:70b] Resetting plugins due to page load.
+2014-08-21 12:09:32.738 LineClearance[89524:3d07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 12:09:41.503 LineClearance[89524:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 12:17:38.195 LineClearance[91000:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 12:17:38.213 LineClearance[91000:70b] Unlimited access to network resources
+2014-08-21 12:17:38.555 LineClearance[91000:70b] Resetting plugins due to page load.
+2014-08-21 12:17:50.765 LineClearance[91000:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 12:19:00.174 LineClearance[92302:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 12:19:00.195 LineClearance[92302:70b] Unlimited access to network resources
+2014-08-21 12:19:00.762 LineClearance[92302:70b] Resetting plugins due to page load.
+2014-08-21 12:19:10.381 LineClearance[92302:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 14:36:02.585 LineClearance[4564:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 14:36:02.606 LineClearance[4564:70b] Unlimited access to network resources
+2014-08-21 14:36:03.140 LineClearance[4564:70b] Resetting plugins due to page load.
+2014-08-21 14:36:14.190 LineClearance[4564:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 14:43:54.792 LineClearance[5897:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 14:43:54.881 LineClearance[5897:70b] Unlimited access to network resources
+2014-08-21 14:43:55.621 LineClearance[5897:70b] Resetting plugins due to page load.
+2014-08-21 14:44:08.876 LineClearance[5897:3d07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 14:44:16.523 LineClearance[5897:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 14:50:19.414 LineClearance[7292:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 14:50:19.430 LineClearance[7292:70b] Unlimited access to network resources
+2014-08-21 14:50:19.730 LineClearance[7292:70b] Resetting plugins due to page load.
+2014-08-21 14:50:57.067 LineClearance[7292:3d07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 14:51:09.387 LineClearance[7292:3d07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 14:51:10.443 LineClearance[7292:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 14:54:11.470 LineClearance[8616:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 14:54:11.602 LineClearance[8616:70b] Unlimited access to network resources
+2014-08-21 14:54:12.462 LineClearance[8616:70b] Resetting plugins due to page load.
+2014-08-21 14:54:29.031 LineClearance[8616:3d07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-21 14:54:30.330 LineClearance[8616:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 16:22:41.520 LineClearance[41271:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 16:22:41.566 LineClearance[41271:70b] Unlimited access to network resources
+2014-08-21 16:22:42.039 LineClearance[41271:70b] Resetting plugins due to page load.
+2014-08-21 16:22:48.556 LineClearance[41271:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 16:25:37.866 LineClearance[42600:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 16:25:37.911 LineClearance[42600:70b] Unlimited access to network resources
+2014-08-21 16:25:38.483 LineClearance[42600:70b] Resetting plugins due to page load.
+2014-08-21 16:25:48.838 LineClearance[42600:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-21 16:47:35.920 LineClearance[53063:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-21 16:47:35.973 LineClearance[53063:70b] Unlimited access to network resources
+2014-08-21 16:47:36.577 LineClearance[53063:70b] Resetting plugins due to page load.
+2014-08-21 16:47:44.642 LineClearance[53063:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-22 10:36:35.675 LineClearance[78429:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-22 10:36:35.709 LineClearance[78429:70b] Unlimited access to network resources
+2014-08-22 10:36:36.450 LineClearance[78429:70b] Resetting plugins due to page load.
+2014-08-22 10:36:51.881 LineClearance[78429:3d07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-08-22 10:36:53.043 LineClearance[78429:70b] Finished load of: file:///Users/mohammei/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A67A7B1-148D-43CE-8DA9-03D5109DF970/LineClearance.app/www/index.html
+2014-08-22 10:40:12.257 LineClearance[81138:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-22 10:40:12.283 LineClearance[81138:70b] Unlimited access to network resources
+2014-08-22 10:40:12.763 LineClearance[81138:70b] Resetting plugins due to page load.
