@@ -148,3 +148,10 @@ padding-bottom: 20px;
 color:blue;
 padding-bottom:5px;
 }
+#hLyt {
+ float: right;
+}
+div#hLyt label {
+ color: blue;
+ padding-right:3px;
+}

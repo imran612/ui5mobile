@@ -50,7 +50,7 @@ sap.ui.jsview("com.jabil.lnclr.mob.view.Home", {
                                                                                 }),
                                                                                 new sap.ui.layout.form.FormElement({
                                                                                     label: "PO From",
-                                                                                                                   fields: [new sap.m.Input({type:sap.m.InputType.Text,tooltip:"Purchase Order From",showValueHelp:true,showSuggestion:true}), new sap.m.Text({text:"PO To"}),new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true})
+                                                                            fields: [new sap.m.Input({type:sap.m.InputType.Text,tooltip:"Purchase Order From",showValueHelp:true,showSuggestion:true}), new sap.m.Text({text:"PO To"}),new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true})
                                                                                         ]
                                                                                     }),
                                                                                 new sap.ui.layout.form.FormElement({

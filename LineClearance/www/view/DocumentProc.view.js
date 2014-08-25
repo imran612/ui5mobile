@@ -55,6 +55,9 @@ sap.ui.jsview("com.jabil.lnclr.mob.view.DocumentProc", {
               
               eSignPanel.addContent(hrLyt);
               
+              lcDocProcPanel.addContent(new sap.m.Text());
+
+              
               lcDocProcPanel.addContent(eSignPanel);
               
               page.addContent(lcDocProcPanel);
