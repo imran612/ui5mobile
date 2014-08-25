@@ -53,7 +53,7 @@ sap.ui.jsview("com.jabil.lnclr.mob.view.DocumentProc", {
               
               page.addContent(lcDocProcPanel);
               
-              //page.addContent(docTablePanel);
+              
               return page;
               
               }
