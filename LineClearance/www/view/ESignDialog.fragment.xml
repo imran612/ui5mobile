@@ -1,0 +1,17 @@
+<core:FragmentDefinition
+	xmlns="sap.m"
+	xmlns:core="sap.ui.core">
+	<Dialog
+		title="PI Sheet: Work Sheet Signatory"
+		class="sapUiPopupWithPadding" >
+		<content>
+			<Text text="Digital SIgnature: System Signature with Authorization by SAP User ID/Password."
+		</content>
+		<beginButton>
+			<Button text="Ok" />
+		</beginButton>
+		<endButton>
+			<Button text="Cancel"  />
+		</endButton>
+	</Dialog>
+</core:FragmentDefinition>
