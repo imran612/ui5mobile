@@ -21,6 +21,19 @@ sap.ui.controller("com.jabil.lnclr.mob.view.DocumentProc", {
                   },
                   handleSettings: function () {
                   
+                  },
+                  handleESignDialog: function () {
+                 // var oModel = new sap.ui.model.json.JSONModel("model/products.json");
+                  this._eSignD = sap.ui.xmlfragment("com.jabil.lnclr.mob.view.ESignDialog",
+                                                     sap.ui.getCore().byId("DocumentProc").getController()
+                                                    );
+                  // this.getView().addDependent(this._valueHelpDialog);
+                  //}
+                  //this._valueHelpDialog.setModel(oModel);
+                  // open value help dialog
+                  this._valueHelpDialog.open();
+
+                  
                   }
 });
 

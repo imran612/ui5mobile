@@ -6,7 +6,7 @@ sap.ui.jsview("com.jabil.lnclr.mob.view.Home", {
 	
 	createContent: function (oController) {
 		
-             alert(1);
+            // alert(1);
               var page = new sap.m.Page({showHeader: true,
                                         showNavButton: false,
                                         alignItems:"center",
@@ -48,9 +48,9 @@ sap.ui.jsview("com.jabil.lnclr.mob.view.Home", {
                                                             label: "Plant",
                 fields: [new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true,valueHelpRequest:oController.handValueHelp})]
                                                                                 }),
-                                                                                new sap.ui.layout.form.FormElement({
-                                                                                    label: "PO From",
-                                                                            fields: [new sap.m.Input({type:sap.m.InputType.Text,tooltip:"Purchase Order From",showValueHelp:true,showSuggestion:true}), new sap.m.Text({text:"PO To"}),new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true})
+                                                                new sap.ui.layout.form.FormElement({
+                                                            label: "PO From",
+                                        fields: [new sap.m.Input({type:sap.m.InputType.Text,tooltip:"Purchase Order From",showValueHelp:true,showSuggestion:true}), new sap.m.Text({text:"PO To"}),new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true})
                                                                                         ]
                                                                                     }),
                                                                                 new sap.ui.layout.form.FormElement({
