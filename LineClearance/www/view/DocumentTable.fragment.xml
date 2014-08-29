@@ -8,10 +8,10 @@
 		items="{/ProductCollection}">
 		<headerToolbar>
 			<Toolbar>
-				<Label text="Line Clearance Document List"></Label>
+				<Label class="lcTableTile" text="Line Clearance Document List"></Label>
 				<ToolbarSpacer></ToolbarSpacer>
 				<!--  Add the Personalization button -->
-				<Button text="Create" press="handleProcDetail" />
+				<Button class="crtBtn" text="Create" press="handleProcDetail" />
                 <Button text="Edit" press="handleProcDetail" />
                 <Button text="Refresh" />
 				<!--  Add the Personalization button -->
@@ -30,7 +30,7 @@
 			<ColumnListItem>
 				<cells>
 					<CheckBox />
-                    <ObjectIdentifier title="{Name}" text="{ProductId}" class="sapMTableContentMargin" />
+                    <ObjectIdentifier title="{Name}" class="sapMTableContentMargin" />
 					<Text text="{SupplierName}" />
 					<Text text="{Width} x {Depth} x {Height} {DimUnit}" />
 					<Text text="{SupplierName}" />

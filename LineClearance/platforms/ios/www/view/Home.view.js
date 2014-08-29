@@ -37,6 +37,21 @@ sap.ui.jsview("com.jabil.lnclr.mob.view.Home", {
               
               
               var resGLyt = new sap.ui.layout.form.ResponsiveGridLayout("RGLYT");
+               var poLyt=new sap.ui.layout.HorizontalLayout();
+                   poLyt.addContent(new sap.m.Text({text:"PO To:"}));
+                   poLyt.addContent(new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true}));
+              
+              var wcLyt=new sap.ui.layout.HorizontalLayout();
+              wcLyt.addContent(new sap.m.Text({text:"WC To:"}));
+              wcLyt.addContent(new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true}));
+              
+              var matLyt=new sap.ui.layout.HorizontalLayout();
+              matLyt.addContent(new sap.m.Text({text:"Material To:"}));
+              matLyt.addContent(new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true}));
+              
+              var baLyt=new sap.ui.layout.HorizontalLayout();
+              baLyt.addContent(new sap.m.Text({text:"Batch To:"}));
+              baLyt.addContent(new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true}));
               
               var oForm1 = new sap.ui.layout.form.Form("selForm",{
                                                        //title: "Line Clearance Processing Selection",
@@ -50,22 +65,22 @@ sap.ui.jsview("com.jabil.lnclr.mob.view.Home", {
                                                                                 }),
                                                                 new sap.ui.layout.form.FormElement({
                                                             label: "PO From",
-                                        fields: [new sap.m.Input({type:sap.m.InputType.Text,tooltip:"Purchase Order From",showValueHelp:true,showSuggestion:true}), new sap.m.Text({text:"PO To"}),new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true})
+                                                                                                   fields: [new sap.m.Input({type:sap.m.InputType.Text,tooltip:"Purchase Order From",showValueHelp:true,showSuggestion:true}), new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true})
                                                                                         ]
                                                                                     }),
                                                                                 new sap.ui.layout.form.FormElement({
                                                                                                 label: "WC From",
-                                                                                                 fields: [new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true}), new sap.m.Text({text:"Work Center To"}),new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true})
+                                                                                                 fields: [new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true}), new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true})
                                                                                             ]
                                                                                         }),
                                                                                            new sap.ui.layout.form.FormElement({
                                                                                             label: "Material",
-                                                                                            fields: [new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true}), new sap.m.Text({text:"Material To"}),new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true})
+                                                                                            fields: [new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true}), new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true})
                                                                                                 ]
                                                                                         }),
                                                                                            new sap.ui.layout.form.FormElement({
                                                                                             label: "Batch",
-                                                                                            fields: [new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true}), new sap.m.Text({text:"Batch To"}),new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true})
+                                                                                            fields: [new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true}), new sap.m.Input({type:sap.m.InputType.Text,showValueHelp:true,showSuggestion:true})
                                                                                             ]
                                                                                         })
                                                                                            

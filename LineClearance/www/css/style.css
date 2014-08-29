@@ -2,16 +2,24 @@ body{background-image:none!important;background:none repeat scroll 0 0 #B4C5DA!i
 .sap-desktop .sapMBar.sapMPageHeader{background-color:#0065A8}
 .sapMBar-CTX .sapMBtnContent > .sapUiIcon{color:#FFF;text-shadow:0 1px 0 rgba(255,255,255,0.5)}
 .sapMGlobalBackgroundColor,.sapMGlobalBackgroundImage{background-color:transparent!important;background-image:none!important}
-.sapMListHdr {text-shadow: none !important; }
+.sapMListHdr,.sapMTB-Transparent-CTX .sapMLabel,.sapMLabel.sapMLabelTBHeader {text-shadow: none !important; }
 .sapMBar.sapMPageHeader::before {
   border-top: none !important;
 }
+.sapMBtnInner,.sapMIBar-CTX .sapMBtnInner { text-shadow: none !important; color: #FFF !important;}
 .sapMBar.sapMPageHeader {
  background: none !important;
 }
 .sapMText {
  text-transform: none !important;
 }
+/*.sapMBar {
+ color: #FFF !important;
+ background-color: transparent !important;
+ text-shadow: none !important;
+ -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}*/
 #jblLogo,#jblLogo1,#jblLogo2 {
   padding-left:10px;
 }
@@ -57,10 +65,15 @@ font-size:20px;
 }
 .sapUiFormResGrid>div, #lcBtn {
  background-color: transparent  !important;
+ text-shadow: none !important;
+ -webkit-box-shadow: none !important;
+  box-shadow: none !important;
 }
 #lcStatus {
-background-color:transparent  !important;
-border-top: solid 1px white;
+  background-color:transparent  !important;
+  border-top: solid 1px white;
+ -webkit-box-shadow: none !important;
+  box-shadow: none !important;
 }
 #lcBtn-BarRight {
 background-color:green;
@@ -155,3 +168,30 @@ div#hLyt label {
  color: blue !important;
  padding-right:3px;
 }
+.selBtnHdr > div {
+background-color: rgb(117, 117, 185) !important;
+font-weight: bold !important;
+}
+.lcTableTile,div#documentList > div > label {
+  color: #FFF !important;
+}
+.crtBtn > div {
+ background-color: rgb(54, 185, 54) !important;
+}
+div#documentList > div {
+  background-color: rgb(117, 117, 185) !important;
+}
+#lcDocProcPanel > .sapMPanelHdr {
+  background-color: rgb(117, 117, 185) !important;
+}
+.procQsPanel {
+  background-color: rgb(126, 132, 127);
+  color:white;
+  text-transform: none;
+}
+#__item6,#__item10,#__item14 {
+ background-color: #D2D9DC;
+}
+/*#__panel0-CollapsedImg {
+background-color: rgb(189, 200, 207);
+}*/
